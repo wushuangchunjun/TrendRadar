@@ -183,16 +183,16 @@ platforms:
   - id: "cls-telegraph"
     name: "财联社 电报"
 
-  - id: "cls-depth"
-    name: "财联社 深度"
+#  - id: "cls-depth"
+#    name: "财联社 深度"
 
   - id: "fastbull-express"
     name: "法布财经 快讯"
 
   - id: "fastbull-news"
     name: "法布财经 头条"
-  - id: "豆瓣"
-    name: "豆瓣"
+#  - id: "豆瓣"
+#    name: "豆瓣"
   - id: "coolapk"
     name: "酷安"
   - id: "tencent-hot"
